@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 Education
+
+Note: this is still the default cv template.
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
